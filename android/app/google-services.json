@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755759421907",
+    "firebase_url": "https://internshipproject-d91f7.firebaseio.com",
+    "project_id": "internshipproject-d91f7",
+    "storage_bucket": "internshipproject-d91f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755759421907:android:a2044cc8abfc8823273726",
+        "android_client_info": {
+          "package_name": "com.pkumar_tcs.royalbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755759421907-ebeob0hf688hge9lgjc3lpa7319l83hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2XE-2ituXPnVV4qrOu657Ys54dG9NclY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755759421907-ebeob0hf688hge9lgjc3lpa7319l83hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
